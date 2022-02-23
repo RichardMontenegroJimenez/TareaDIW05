@@ -1,0 +1,38 @@
+#contenedor_inicio {
+    background: linear-gradient(to right, #34889c, #4678c8);
+}
+
+.btn-menu{
+    margin: 1rem;
+}
+
+ul.dropdown-menu{
+    background-color: #4678c8;
+    width:100vw;
+	height:100vh; 
+}
+
+.dropdown-item{
+    color: aliceblue;
+    font-size: xx-large;
+}
+.callout-primary {
+    border-left-width: 6px;
+    border-left-color: #428bca;
+}
+.callout-success {
+   border-left-width: 6px;
+   border-left-color: #1cc88a;
+}
+.callout-info {
+   border-left-width: 6px;
+   border-left-color: #36b9cc;;
+
+}
+.img_cards{
+    height: 130px;
+    margin: 2rem;
+}
+.cards_item{
+    margin: 1rem;
+}
